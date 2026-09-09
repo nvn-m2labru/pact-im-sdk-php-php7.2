@@ -1,5 +1,5 @@
 {
-    "name": "pact-im/sdk-php",
+    "name": "nvn-m2labru/pact-im-sdk-php-php7.2",
     "type": "library",
     "description": "PHP library for pact.im (php 7.2)",
     "keywords": ["library", "pact"],

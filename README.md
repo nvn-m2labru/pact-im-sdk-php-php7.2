@@ -1,6 +1,6 @@
 # Pact.im PHP SDK
 
-A PHP library for Pact.im API
+A PHP library for Pact.im API (This repo: php 7.2 compatible)
 
 ## Install
 
